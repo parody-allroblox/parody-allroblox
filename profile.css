@@ -1,0 +1,221 @@
+.profile{
+	margin: 0 0 50px 0;
+}
+.avararsss{
+	float: left;
+width: 104px;
+height: 104px;
+margin-right: 24px;
+position: relative;
+}
+.avararsss img{
+
+}
+.infe{
+	float: left;
+
+}
+.infe h1{
+	float: left;
+margin: 0 16px 16px 0;
+font-size: 28px;
+line-height: 110%;
+}
+.topmoney{
+	line-height: 17px;
+}
+.kakers{
+	float: left;
+margin-right: 24px;
+display: flex;
+}
+.topmir{
+	font-weight: bold;
+font-size: 22px;
+line-height: 17px;
+color: #18191B;
+margin-bottom: 12px;
+}
+.righttt{
+	float: left;
+	margin-left: 30px;
+}
+.money4{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/P_small.png) no-repeat scroll 0 center;
+padding: 0 0 0 20px;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+margin-bottom: 8px;
+}.money2{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/B_small.png) no-repeat scroll 0 center;
+padding: 0 0 0 20px;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+
+}
+.cirlse6 img{
+	width: 100%;
+	border-radius: 50%;
+}.cirlse66 img{
+	width: 100%;
+	border-radius: 50%;
+}
+.opisissi{
+	margin: 0 0 34px 0;
+	position: relative;
+top: 170px;
+}
+.opuss{
+font-weight: bold;
+font-size: 22px;
+line-height: 150%;
+color: #18191B;
+padding: 0 0 16px 0;
+margin: 0 0 23px 0;
+
+position: relative;
+left: -360px;
+}
+.block1{
+	display: block;
+	height: 100px;
+}
+.textopuss{
+	position: relative;
+left: -360px;
+font-size: 20px;
+width: 1053px;
+}
+.Ac{
+font-weight: bold;
+font-size: 22px;
+line-height: 150%;
+color: #18191B;
+padding: 0 0 16px 0;
+border-bottom: 1px solid rgba(24,25,27,0.1);
+margin: 0 0 32px 0;
+
+position: relative;
+}
+.ptwx{
+	margin-left: 364px;
+}
+.wowe{
+	  width: 100%;
+	  position: relative;
+
+}
+.atcie{
+	width: 100%;
+padding: 23px 0 22px 0;
+padding-top: 0px;
+display: flex;
+}
+.imageat{
+	width: 41px;
+float: left;
+margin: 0 8px 0 0;
+position: relative;
+}
+.imageat img{
+	width: 100%;
+	border-radius: 100%;
+}
+.goged{
+	float: left;
+width: calc(100% - 49px);
+}
+.gdf{
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #18191B;
+
+margin-left: 22px;
+
+}
+.gdf a:hover{
+	text-decoration: underline;
+
+}
+.gdf a{
+color: #00C6EE;
+font-weight: bold;
+}.gdf2{
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #18191B;
+margin-left: 22px;
+
+}
+.gdf2 a:hover{
+	text-decoration: underline;
+
+}
+.gdf2 a{
+color: #00C6EE;
+font-weight: bold;
+}
+.titee2{
+		  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  color: #939393;
+  margin-left: 22px;
+}
+.titee{
+	  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  color: #939393;
+  margin-left: 22px;
+
+}
+.rew{
+font-weight: bold;
+font-size: 22px;
+line-height: 150%;
+color: #18191B;
+padding: 0 0 16px 0;
+border-bottom: 1px solid rgba(24,25,27,0.1);
+margin: 0 0 32px 0;
+margin-top: 200px;
+}
+.gers{
+	display: -webkit-flex;
+-webkit-flex-wrap: wrap;
+display: flex;
+flex-wrap: wrap;
+
+}
+.deeeee{
+	margin: 0 23px 30px 0;
+width: calc((100% - 300px)/5);
+-webkit-flex: 0 0 auto;
+flex: 0 0 auto;
+}
+.imaf{
+	width: 100%;
+margin: 0 0 13px 0;
+text-align: center;
+}
+.hohd{
+	font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #18191B;
+}
+.fgdf{
+	margin: 4px 0 0 0;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+text-align: center;
+color: #939393;
+}
